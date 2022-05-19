@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--About fragment-->
+    <dimen name="about_text_size">30sp</dimen>
+
+    <!--Comment item-->
+    <dimen name="comment_padding">10dp</dimen>
+    <dimen name="comment_text_size">12sp</dimen>
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Posts</string>
+    <string name="posts">Posts</string>
+    <string name="empty_comment">You must fill the comment first!</string>
+
+    <!--Post item-->
+    <string name="input_comment_hint">Your Comment</string>
+
+    <!--Comment item-->
+    <string name="comment_icon_description">Comment icon</string>
+    <string name="comments">Comments</string>
+    <string name="submit_icon_description">Submit icon</string>
+
+    <!--About fragment-->
+    <string name="header_about_text">ABOUT</string>
+    <string name="body_about_text">Developed by</string>
+    <string name="author_about_text">Arthur Ferreira Pinto</string>
+    <string name="about">About</string>
+    <string name="image_about_description">Author</string>
+
+</resources>
